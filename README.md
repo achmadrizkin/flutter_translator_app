@@ -1,16 +1,21 @@
-# translator_app
+# ✔️ Flutter Translator Apps
 
-A new Flutter project.
+A Flutter app based on the responsive design of the Translator Apps, created by *Achmad Rizki Nur Fauzie*,
 
-## Getting Started
+## Features
+- Responsive App
+- 104 language
+- Translate between 104 languages by typing
+- Copy text in any app and paste to translator app
 
-This project is a starting point for a Flutter application.
+## Getting Started 🚀
 
-A few resources to get you started if this is your first Flutter project:
+```shell
+- Clone the repo
+- Install the dependicies
+- Run it
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Preview App
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/75843138/106375120-0d1df280-63bc-11eb-8892-a43703819d14.png" alt="alt text" width="200" height="350"> <img src="https://user-images.githubusercontent.com/75843138/106375122-0f804c80-63bc-11eb-8cea-ef59db5819db.png" alt="alt text" width="200" height="350"> <img src="https://user-images.githubusercontent.com/75843138/106375123-1018e300-63bc-11eb-90e8-4a681c393572.png" alt="alt text" width="200" height="350">
