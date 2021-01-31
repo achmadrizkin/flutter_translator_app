@@ -4,8 +4,7 @@ A Flutter app based on the responsive design of the Translator Apps, created by 
 
 ## Features
 - Responsive App
-- 104 language
-- Translate between 104 languages by typing
+- Translate 104 languages by typing
 - Copy text in any app and paste to translator app
 
 ## Getting Started 🚀
