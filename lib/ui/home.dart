@@ -408,7 +408,7 @@ class _HomePageState extends State<HomePage> {
                 ),
               ),
               SizedBox(height: 10.0),
-              //TODO: Watch this fking code
+              
               Padding(
                 padding: const EdgeInsets.only(right: 198.0),
                 child: DropdownButtonHideUnderline(
@@ -447,7 +447,7 @@ class _HomePageState extends State<HomePage> {
                         color: Colors.white,
                         fontFamily: 'PoppinsReg',
                       ),
-                      //TODO: know this fking
+                      
                       showCursor: true,
                       cursorColor: Colors.white,
 
