@@ -7,6 +7,10 @@ A Flutter app based on the responsive design of the Translator Apps, created by 
 - Translate 104 languages by typing
 - Copy text in any app and paste to translator app
 
+## Plugins
+- cupertino_icons: ^1.0.0
+- translator: ^0.1.5
+
 ## Getting Started 🚀
 
 ```shell
